@@ -6,9 +6,9 @@
 ChatGPT Chatbot Template is a project that provides a foundational structure for building interactive chatbot interfaces using OpenAI's GPT. This template serves as a starting point for developing more complex and tailored chatbot applications. It showcases how to build an application that maintains conversational context effectively. The template have been setled as a chatbot with expertise in cocktails.
 ![Bar Tender Chatbot](/img/chat.png)
 
-
 Replace  /public/uploads/instructions.md for your own instructions.
-You must create a .env file with the API key. An example in .env_example
+
+Also, you must to create a .env file with the API key. An example in .env_example
 
 ## Prerequisites
 
