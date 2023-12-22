@@ -27,14 +27,14 @@ To install and run this project locally, follow these steps:
 
 \```bash
 git clone https://github.com/beetecu/chatgptTemplate.git
-cd chatgptTemplate
+cd chatgptTemplate/server
 npm install
 npm start
 \```
 
 ## Usage
 
-Once the server is running, you can access the chatbot interface at `http://localhost:9000`. Enter your questions or comments in the chat input field and receive responses from ChatGPT. 
+Once the server is running, you can access the chatbot interface at `http://localhost:8000`. Enter your questions or comments in the chat input field and receive responses from ChatGPT. 
 
 Instructions for the chatbot's specialization (in this example, cocktails) should be placed in the `uploads` folder. This setup allows the chatbot to provide contextually relevant and specialized responses based on the provided instructions.
 
@@ -61,3 +61,5 @@ Project Link: [https://github.com/beetecu/chatgptTemplate](https://github.com/be
 ## Acknowledgements
 
 - https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/
+
+mmmmmmm
